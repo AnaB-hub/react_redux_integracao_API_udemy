@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Ana from './ana';
+import Ana from './components/Ana';
 
 function App() {
   return (
