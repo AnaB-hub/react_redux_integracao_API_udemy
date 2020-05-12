@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
+import List from './components/List';
 
 class App extends Component {
 
@@ -61,6 +62,7 @@ class App extends Component {
           <button onClick={this.changeState}>Mudar nome</button>
           <button onClick={this.resetState}>Resetar nome</button>
         </div>
+        <List />
       </div>
     );
   }

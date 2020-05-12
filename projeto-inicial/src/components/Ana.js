@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 import User from './User';
-import PhotoUser from '../assets/user.png';
+import PhotoUser from '../assents/user.png';
 
 class Ana extends Component {
   render() {
