@@ -19,12 +19,14 @@ class Users extends Component {
     return (
       <div>
         <table>
-          <tr>
-            <th>Nome</th>
-            <th>Email</th>
-          </tr>
-          {list.map((item) => {
-            return <tr key={item.id}>
+
+          <tbody>
+            <tr>
+              <th>Nome</th>
+              <th>Email</th>
+            </tr>
+            {list.map((item) => {
+              return <tr key={item.id}>
                 <td>
                   {item.name}
                 </td>
@@ -32,7 +34,8 @@ class Users extends Component {
                   {item.email}
                 </td>
               </tr>
-          })}
+            })}
+          </tbody>
         </table>
       </div>
     );
