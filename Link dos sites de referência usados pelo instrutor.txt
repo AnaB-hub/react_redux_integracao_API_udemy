@@ -1,5 +1,12 @@
+** REACT **
+
 https://www.taniarascia.com/getting-started-with-react/
 
 https://reactjs.org/docs/create-a-new-react-app.html
 
 https://reacttraining.com/react-router/web/guides/quick-start
+
+** REDUX **
+https://redux.js.org/introduction/getting-started
+https://redux-form.com/8.3.0/
+https://github.com/redux-form/redux-form
