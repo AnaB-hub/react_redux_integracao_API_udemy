@@ -1,0 +1,3 @@
+	Durante a aula 13, o autor do curso disponibilizou a API contida nessa 
+pasta, para que seja possível realizar uma integração do React e Redux com uma API.
+	É necessário apenas dar duplo click sobre o jar, para executá-lo.
