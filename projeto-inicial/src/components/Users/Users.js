@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import UserForm from './UserForm';
 
 class Users extends Component {
   render() {
@@ -18,8 +19,8 @@ class Users extends Component {
 
     return (
       <div>
+        <UserForm/>
         <table>
-
           <tbody>
             <tr>
               <th>Nome</th>
